@@ -8,7 +8,7 @@
 
 - 💻&nbsp; I'm a **Tech Enthusiast**  passionate about learning and working with new tech<br/>
 
-- 🤖&nbsp; I’m currently part of **[Grupo SEMEAR](https://github.com/Grupo-SEMEAR-USP)** which works with robotics projects, from controllers, autonomous and drones.
+- 🤖&nbsp; I’m currently part of **[Grupo SEMEAR](https://github.com/Grupo-SEMEAR-USP)** and **[LabRoM](https://github.com/EESC-LabRoM)**, both working with robotics projects, from controllers, autonomous and drones.
 
 - 🏐&nbsp; I'm also a Volleyball player on my free time :)
 
