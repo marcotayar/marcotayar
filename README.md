@@ -37,7 +37,3 @@
 ## 🚀 Quick Stats
 
 <br/>
-
-[![AgnesBressan](https://github-readme-stats.vercel.app/api?username=marcotayar&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![AgnesBressan](https://github-readme-stats.vercel.app/api/top-langs/?username=marcotayar&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
